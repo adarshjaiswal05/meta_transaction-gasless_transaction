@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.78.2",
+    "algosdk": "^2.4.0",
+    "avalanche": "^3.16.0",
+    "axios": "^1.4.0",
+    "bitcore-insight": "^1.0.1",
+    "bitcore-lib": "^10.0.5",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2",
+    "stellar-sdk": "^10.4.1",
+    "web3": "^4.0.3",
+    "web3js-quorum": "^22.4.0",
+    "xrpl": "^2.9.1"
+  }
+}
